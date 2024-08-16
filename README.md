@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Tonish01/Tonish01/blob/main/Banner.gif)
 
 # 💫 About Me:
 🔭 I’m currently working in Coding Ninjas' Platform to solve complex problems using data structures and algorithms in C++.<br><br>👯 I’m looking to collaborate on open-source projects in web development, especially those involving MERN stack or C++ applications.<br><br>🤝 I’m looking for help with contributing to high-profile open-source projects and understanding the best practices in system architecture and design.<br><br>🌱 I’m currently learning advanced concepts in cloud computing and shader graphics to enhance my software development skills.<br><br>💬 Ask me about coding challenges, implementing efficient algorithms, and developing responsive web applications.<br><br>⚡ Fun fact: When I'm not coding or working on projects, I love exploring the latest trends in technology and playing chess to sharpen my strategic thinking!
